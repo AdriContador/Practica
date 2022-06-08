@@ -1,0 +1,16 @@
+DROP DATABASE IF EXISTS registros;
+create database registros;
+use registros;
+create table especiesmarinas (
+	tipoanimal VARCHAR(50),
+	especie VARCHAR(50),
+	habitat VARCHAR(50),
+	medida VARCHAR(50),
+	peso VARCHAR(50),
+	profundidad VARCHAR(50),
+	tiemponavegacion VARCHAR(50),
+	numeroembarcaciones VARCHAR(50),
+	hora VARCHAR(50),
+	sexo VARCHAR(50),
+	parasitos VARCHAR(50),
+	presenciadeanzuelos VARCHAR(50));
