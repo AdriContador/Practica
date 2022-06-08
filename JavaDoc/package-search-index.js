@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"org.faunamarina.ui","l":"App"},{"m":"org.faunamarina.gui","l":"Entities"},{"m":"org.faunamarina.gui","l":"Panel"},{"m":"org.faunamarina.gui","l":"Utils"}];updateSearchResults();

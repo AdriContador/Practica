@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practica.iml" filepath="$PROJECT_DIR$/Practica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.faunamarina.gui/org.faunamarina.gui.iml" filepath="$PROJECT_DIR$/org.faunamarina.gui/org.faunamarina.gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.faunamarina.ui/org.faunamarina.ui.iml" filepath="$PROJECT_DIR$/org.faunamarina.ui/org.faunamarina.ui.iml" />
+    </modules>
+  </component>
+</project>
